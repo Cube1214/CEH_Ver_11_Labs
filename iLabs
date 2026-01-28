@@ -1,0 +1,60 @@
+Mod_20_Cryptography
+
+       Cryptography is the study and art of hiding 
+
+
+Mod_14_hacking_web_applications
+****** Hacking Web Applications
+
+&&&& Objectives: 
+
+________Lab_1: Footprinting a web application using various information-gathering tools
+gather information about server IP address, DNS anmes, location and type or server, open ports and service, make, model, version of the web server software and server-side technology
+
+Footprinting: Server Discovery, Service Discovery, Server Identification, Hidden Content Discovery
+%%%% Tasks using Parrot Security 
+      Perfrom Whois Lookup
+      Perform DNS Interoogation
+      Perfrom Port and Service Scan
+      Perform Banner Grabbing : identif the maker, model, and version of the target web server software
+      Tools you can use for web spidering pr crawling tols such as Burp Suite, WebScarab or Mozenda Web Agent Builder
+
+      Detect Load balancers using dig
+      Detect Load balancers using lbd
+      Tools to identify tarhet web application's files and directories exposed on the Internet using various tools such as Nmap ad Gobuster.
+       Identify Web Server Direcotries using Nmap
+       Identify web Serber Directories using Gobuster
+       Vega is a web application scanner used to test the security of web applications. It helps you to find and validate SQL Injection, XSS, indvertently disclosed sensitive information, and other vulnerabilities
+
+
+
+
+_________Lab_2:Performing web spidering, detect load balancers, and identify web server directories using WhatWeb and OWASP ZAP
+               
+
+
+_________ Lab_3: Performing web application vulnerability using Vega  
+_________ Lab_4: Performing brute-force and cross-site request forgery  (CSRF) attack using Burp Suite
+_________ Lab_5:  identify Clickjacking Vulnerability using iframe
+_________ Lab_6:  Exploiting parameter tampering and cross-site scripting (XSS)
+_________ Lab_7:  Exploiting WordPress Plugin vulnerabilties
+_________ Lab_8:  Enumerate and Hack Web Application using WPScan and Metasploit
+_________ Lab_9:  Exploiting remote command execution vulnerability
+_________ Lab_10:  Exploiting file upload vulnerability
+_________ Lab_11: Gaining backdoor access via a web shell using Weevely
+_________ Lab_12: 3_Detecting web application vulnerabilities using various web application security tools
+                   ___Tools: N-Stalker Web Application Security Scanner
+****** Footprint the Web Infrastructure
+
+      Perform Web Application Attacks
+
+
+******* Detect Web Application Vulnerabilities using Various Web Application Security Tools
+        Ethical Hackers and pen testers are aided in the discovery of web applicatio vulnerabilities with the help of various tools that make the detection of web application vulnerabilities an easy task.
+
+     Web App. attacks, launched on port 80/443, go straight through the firewall, past the OS and network-level security and into the heart of the application are ofteh insufficiently tested, have undiscovered vulnerabilities, and are, therefore, easy prey for hackers
+
+&&&& Lab_Objectives
+    - Detect web application vulnerabilities using N-Stalker Web Application Security Scanner
+    - Web Application security tools are automated tools that scan web app, normally from the outside, to look for security vulnerabilities such as XSS, SQL injection, command injection, path traversal, and insecure server configuration; this category of tools are referred to as Dynamic Application Security Testing (DAST) Tools
+
